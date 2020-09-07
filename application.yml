@@ -16,7 +16,7 @@ microservice:
     endpoints:
       endpoint:
         uri: http://ORDER-SERVICE/order/bookOrder 
-msg: Welcome to spring cloud
+msg: Welcome to spring
 
 management:
   endpoints:
