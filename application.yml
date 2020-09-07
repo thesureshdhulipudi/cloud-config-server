@@ -16,4 +16,4 @@ microservice:
     endpoints:
       endpoint:
         uri: http://ORDER-SERVICE/order/bookOrder 
-msg: Welcome to spring cloud config
+msg: Welcome to spring boot
