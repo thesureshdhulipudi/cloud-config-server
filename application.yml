@@ -17,3 +17,9 @@ microservice:
       endpoint:
         uri: http://ORDER-SERVICE/order/bookOrder 
 msg: Welcome to spring cloud
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
